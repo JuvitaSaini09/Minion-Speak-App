@@ -39,7 +39,7 @@ body {
 
 h4 {
     background-color: var(--yellow-color);
-    width: 51%;
+    width: 71%;
     font-size: large;
     color: black;
     font-weight: bold;
@@ -50,7 +50,7 @@ h4 {
 }
 
 .inputText {
-    width: 50%;
+    width: 70%;
     height: 150px;
     border: 2px solid var(--yellow-color);
 }
@@ -68,7 +68,7 @@ h4 {
 }
 
 .outputText {
-    width: 50%;
+    width: 70%;
     height: 110px;
     border: 2px solid var(--yellow-color);
 }
@@ -86,7 +86,8 @@ h4 {
 }
 
 #foot p {
-    margin: auto;
-    width: 400px;
+    text-align: center;
+    width: 450px;
+    height:170px;
     padding: 2px;
 }

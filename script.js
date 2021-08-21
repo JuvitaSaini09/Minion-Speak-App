@@ -18,7 +18,7 @@ function Handler() {
         .then(json => {
             var banana_translation = json.contents.translated;
             output.innerText = banana_translation;
-            
+
         })
         .catch(errorHandler);
 }

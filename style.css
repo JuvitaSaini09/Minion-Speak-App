@@ -1,0 +1,49 @@
+.mainpage {
+    margin: auto;
+    text-align: center;
+    margin: 5%;
+    background-color: grey;
+}
+
+.heading {
+    text-align: center;
+}
+
+h4 {
+
+    text-align: left;
+    margin-left: 15%;
+
+}
+
+.inputText {
+    width: 70%;
+    height: 150px;
+}
+
+.translate-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: rgb(221, 167, 17);
+}
+
+.outputText {
+    width: 70%;
+    height: 110px;
+}
+
+#foot {
+    text-align: center;
+    padding: 2px;
+    background-color: grey;
+}
+
+#foot h3 {
+    text-align: center;
+}
+
+#foot p {
+    margin: auto;
+    width: 500px;
+    padding: 5px;
+}

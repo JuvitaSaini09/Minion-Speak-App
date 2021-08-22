@@ -10,34 +10,29 @@ body {
     font-family: 'Klee One', cursive;
     background-image: url(pictures/minion7.jpg);
     background-repeat: no-repeat;
-    background-size: 200px 180px;
+    background-size: 400px 200px;
     margin: 0px;
-    background-position-x: 87%;
-    background-position-y: 350px;
+    background-position-x: 100%;
+    background-position-y: 200px;
 }
-.sec{
-    width:70%;
-    margin-left:20px;
-    margin-right:20px;
-}
+
 .mainpage {
     text-align: left;
-    margin-left:5px;
-    
+    margin-left: 10%;
 
 
 
 }
 
 .heading {
-    font-size: 35px;
+    font-size: 45px;
     text-align: center;
     margin-bottom: 40px;
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
-    padding-top:20px;
-    height: 100px;
+    padding-top: 0px;
+    height: 150px;
     background-color: var(--yellow-color);
 
 }
@@ -80,21 +75,19 @@ h4 {
 
 #foot {
     text-align: center;
-    padding:5px 0 0 0;
-    width:100%;
+    padding: 2px;
+    padding-bottom: 0px;
     margin-bottom:0px;
     background-color: var(--yellow-color);
-    text-align:center;
 }
-/*
+
 #foot h1 {
     text-align: center;
 }
-*/
 
 #foot p {
     margin:auto;
     width: 300px;
-    /*height:200px;*/
+    height:200px;
     padding: 2px;
 }
